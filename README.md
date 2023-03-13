@@ -15,7 +15,7 @@ Skills: Swift / iOS / RxSwift / SwiftUI / Combine / CoreData / CoreBluetooth / C
 - 😄 Pronouns: He/him/his 
 - ⚡ Fun fact: I like to play tennis. I have been playing for 20 years (and counting!)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathan__hds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhds) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhenriqueds) [![Mastodon](https://img.shields.io/badge/Mastodon-%231DA1F2.svg?logo=Mastodon&logoColor=white)](https://mastodon.social/@jonathanhds)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathan__hds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathansouza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jhenriqueds) [![Mastodon](https://img.shields.io/badge/Mastodon-%231DA1F2.svg?logo=Mastodon&logoColor=white)](https://mastodon.social/@jonathanhds)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
